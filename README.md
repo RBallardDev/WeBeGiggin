@@ -10,7 +10,7 @@ WeBeGiggin is a mobile application designed to support the gig community by offe
 - **Messaging System**: Facilitates communication between users, clients, and the community.
 - **Event Organization**: Organizes and promotes networking events within the gig community.
 - **Real-Time Notifications**: Provides updates on events, messages, job offers, and other relevant activities.
-- **Resource Hub**: Offers resources such as tax services, educational videos, and other tools to help gig workers succeed.
+- **Resource Hub**: Offers resources such as tax services, educational videos, and other tools to help gig workers and all users succeed.
 
 ## Installation
 
@@ -29,7 +29,7 @@ cd WeBeGiggin
 
 Further installation and setup instructions will be provided as development progresses.
 
-## Usage
+## Basic usage for reference
 
 ### Use Case 1: User Registration
 - **Description**: A new user registers for an account by providing their full name, email, password, and selecting their role (Gig Worker, Hiring Entity, Admin).
